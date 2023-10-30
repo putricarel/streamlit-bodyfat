@@ -264,4 +264,4 @@ print('akurasi model regresi linier =', score)
 
 [My Estimation App](https://app-bodyfat-dhjeqvkw5qnrzvgzqm6ybc.streamlit.app/).
 
-![Alt text](deploy.png)
+![Alt text](deployment.png)
